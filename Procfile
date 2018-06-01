@@ -1,1 +1,1 @@
-web: java -jar war/target/jenkins.war
+web: java -jar /app/jenkins.war
